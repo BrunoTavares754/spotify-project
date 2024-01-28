@@ -16,4 +16,3 @@ Projeto construído utilizando aprendizados do evento da imersão FrontEnd Alura
 ## Contato
 
 brunotavares754@gmail.com
-https://www.linkedin.com/in/bruno-tavares-0651041a8/
