@@ -4,8 +4,6 @@
 
 Projeto construído utilizando aprendizados do evento da imersão FrontEnd Alura.
 
-![preview](./.github/preview.png)
-
 [Clique aqui para acessar](https://brunotavares754.github.io/spotify-project/))
 
 ## Tecnologias 
